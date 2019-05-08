@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Tilevania 01",
+"dataUrl": "WEbGl game.data.unityweb",
+"wasmCodeUrl": "WEbGl game.wasm.code.unityweb",
+"wasmFrameworkUrl": "WEbGl game.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
